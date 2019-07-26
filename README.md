@@ -1,6 +1,3 @@
-# Websites_Login_Bruter
-#A little python script which uses the selenium webdriver stuff to crack login pages like gmail facebook Instagram etc...
-#If The User Agent is not working for you change it to yours also you have to download the chrome webdriver for your chrome version.
-#Enjoy The Script and have fun Cracking Login Pages...na just kidding only do it on Accounts you have permission to do so.
-#Link to Webdriver download page: https://sites.google.com/a/chromium.org/chromedriver/downloads
-#how to see your user-agent Search for the Following on Google: whats my useragent
+# Domain_Lookup
+This is a basic Domain_Lookup script written in python there is the main_application you have to start first and than you can choose between UK domain lookup and EU doamin lookup.
+Have fun using this tool but only use it against websites you have permission to do so.
