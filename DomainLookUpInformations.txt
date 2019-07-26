@@ -1,0 +1,5 @@
+bei .com seiten ist die Id="registrarData"
+bei .net seiten ist die Id="registrarData" > wie bei .com
+bei .de seiten ist die Id="registryData"
+bei .info seiten ist die Id="registryData" > wie bei .de
+Die .ch seiten sind nicht zum lookup verfügbar
